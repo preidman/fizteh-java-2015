@@ -36,10 +36,15 @@
         </dependency>
 
         <dependency>
-            <groupId>com.google.maps</groupId>
-            <artifactId>google-maps-services</artifactId>
-            <version>0.1.1</version>
-        </dependency>
+ +      <groupId>com.google.maps</groupId>
+ +      <artifactId>google-maps-services</artifactId>
+ +      <version>0.1.9</version>
+ +    </dependency>
+ +    <dependency>
+ +      <groupId>org.json</groupId>
+ +      <artifactId>json</artifactId>
+ +      <version>20151123</version>
+ +    </dependency>
 
         <dependency>
             <groupId>org.powermock</groupId>
