@@ -1,5 +1,4 @@
-package ru.mipt.diht.students.preidman.MiniORM;
-
+package ru.fizteh.fivt.students.preidman.MiniORM;
 import javafx.util.Pair;
 
 

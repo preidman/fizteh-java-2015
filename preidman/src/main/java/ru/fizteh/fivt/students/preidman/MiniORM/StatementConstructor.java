@@ -1,5 +1,4 @@
-package ru.mipt.diht.students.preidman.MiniORM;
-
+package ru.fizteh.fivt.students.preidman.MiniORM;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +14,7 @@ public class StatementConstructor<T> {
 
     private Class itemsClass;
 
-    public StatementConstructor(String newTableName,
+    public StatementConstructor(String newName,
                                List<TColumn> newColumnList,
                                TColumn newPrimaryKey,
                                Class newItemsClass) {

@@ -1,10 +1,9 @@
-package ru.mipt.diht.students.preidman.MiniORM;
-
+package ru.fizteh.fivt.students.preidman.MiniORM;
 import javafx.util.Pair;
 
-import ru.mipt.diht.students.preidman.MiniORM.DatabaseService.Column;
-import ru.mipt.diht.students.preidman.MiniORM.DatabaseService.PrimaryKey;
-import ru.mipt.diht.students.preidman.MiniORM.DatabaseService.Table;
+import ru.fizteh.fivt.students.preidman.MiniORM.DatabaseService.Column;
+import ru.fizteh.fivt.students.preidman.MiniORM.DatabaseService.PrimaryKey;
+import ru.fizteh.fivt.students.preidman.MiniORM.DatabaseService.Table;
 
 import java.lang.reflect.Field;
 import java.sql.ResultSet;
